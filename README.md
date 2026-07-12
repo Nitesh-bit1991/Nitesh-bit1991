@@ -2,7 +2,7 @@
 
 Software Developer (.NET / C# / Blazor) working in Industrial Automation and AI Integration.
 
-- 🔧 Currently building HMI systems, data pipelines, and AI microservices in automotive manufacturing (thyssenkrupp)
+- 🔧 Currently building HMI systems, data pipelines, and AI microservices in automotive manufacturing
 - 🤖 Hands-on with RAG, LangGraph agent orchestration, and LLM prompt engineering
 - 🏭 Background bridging OT (PLC, OPC UA) and IT (cloud, REST APIs, SQL)
 
