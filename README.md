@@ -8,4 +8,4 @@ Software Developer (.NET / C# / Blazor) working in Industrial Automation and AI 
 
 **Tech stack:** C# · .NET · Blazor · Python · SQL Server · PostgreSQL · OPC UA · LangGraph · RAG
 
-📫 [LinkedIn](www.linkedin.com/in/nitesh-kumar-giri-) · nitesh.giri2@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-giri-/)· nitesh.giri2@gmail.com
